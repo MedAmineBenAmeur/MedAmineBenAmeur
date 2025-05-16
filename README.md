@@ -2,53 +2,46 @@
 **MedAmineBenAmeur/MedAmineBenAmeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 👋 Hi there, I'm Med Amine Ben Ameur!
-
-I'm a **Software Engineer** with a passion for crafting powerful digital experiences from end to end.  
-
----
-
-### 💻 Tech Stack
-
-**Frontend:**  
-`HTML` • `CSS` • `Bootstrap` • `Tailwind CSS` • `JavaScript` • `Angular` • `Next.js`  
-
-**Backend:**  
-`PHP` • `Python` • `Django` • `Laravel`  
-
-**CMS:**  
-`WordPress`  
-
-**DevOps & Deployment:**  
-`Docker`  
-
-**App Development:**  
-`Flutter`  
-
-**Digital Marketing:**  
-`SEO` • `SEA` • `SMA` • `SMO`  
-
-**Currently Exploring:**  
-🧠 **Artificial Intelligence** – I'm diving into AI and currently building an AI-powered chatbot model!
+<h1 align="center">Hi 👋, I'm Med Amine Ben Ameur</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast</h3>
 
 ---
 
-### 🤝 I’m looking to collaborate on
+### 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,angular,nextjs,php,python,django,laravel,wordpress,docker,flutter&perline=8" alt="Tech Stack Icons" />
+</div>
+
+---
+
+### 💡 Currently Working On
+- 🤖 Building an AI-powered **Chatbot model**
+- 🧠 Learning more about **Machine Learning & LLMs**
+
+---
+
+### 🤝 I’m Looking to Collaborate On
 - AI & chatbot projects  
-- Web & mobile applications  
-- SEO/Marketing-integrated platforms
-
-### 💬 Ask me about
-- Full-stack development  
-- WordPress customization  
-- Scalable web architectures  
-- Mobile app dev with Flutter  
-- Marketing-tech integration
-
-### 📫 How to reach me
-Feel free to connect with me via [[LinkedIn](https://www.linkedin.com/in/ben-ameur-amine-408083254/)](#) or email me at [medaminebenameur3@gmail.com] 
+- Full-stack web and mobile apps  
+- SEO & marketing-driven digital platforms
 
 ---
 
-### ⚡ Fun fact
-When I’m not coding, I’m probably learning something new about AI, testing digital marketing tools, or brainstorming creative product ideas 🚀
+### 💬 Ask Me About
+- Frontend frameworks (Angular, Next.js)  
+- Backend solutions (Laravel, Django)  
+- CMS & WordPress development  
+- Flutter mobile apps  
+- SEO, SEA, SMA, SMO integration  
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: **medaminebenameur3@gmail.com**  
+- 💼 LinkedIn: [ben-ameur-amine](https://www.linkedin.com/in/ben-ameur-amine-408083254/)
+
+---
+
+### ⚡ Fun Fact
+Outside of coding, I’m always experimenting with digital marketing tools and diving deeper into AI technologies!
